@@ -14,7 +14,7 @@ Datasets Used
    - Columns include: account, symbol, execution price, size, side, time, start position, event, closedPnL, leverage, etc.
 
 Folder Structure
-ds_sameer_bhatt/
+ds_sunil_bhatt/
 	Traders behavior insights.ipynb
  
 csv_files/
